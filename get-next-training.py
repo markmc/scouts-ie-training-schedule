@@ -18,7 +18,7 @@ def login(session):
 import requests
 session = requests.Session()
 
-print(len(USERNAME), file=sys.stderr)
+print("~~~{}---".format(USERNAME), file=sys.stderr)
 print(len(PASSWORD), file=sys.stderr)
 
 result = login(session)
