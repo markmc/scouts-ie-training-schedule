@@ -23,6 +23,8 @@ if result.status_code != 200:
     print('Failed to log in')
     sys.exit(1)
 
+print(result, file=sys.stderr)
+print(len(PROFILE_ID), file=sys.stderr)
 result = session.get(URL_BASE + "/api/Training/GetProfileNextTraining?profileId={}".format(PROFILE_ID))
 print(result.text)
 
