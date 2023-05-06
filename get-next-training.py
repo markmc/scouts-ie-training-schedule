@@ -1,3 +1,5 @@
+
+import sys
 import os
 from lxml import html
 
