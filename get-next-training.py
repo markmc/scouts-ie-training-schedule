@@ -4,7 +4,7 @@ import os
 from lxml import html
 
 URL_BASE = 'https://my.scouts.ie'
-USERNAME = os.environ.get('SCOUTS_USERNAME')
+USERNAME = os.environ.get('SCOUTS_USERNAME')[1:]
 PASSWORD = os.environ.get('SCOUTS_PASSWORD')
 PROFILE_ID = os.environ.get('SCOUTS_PROFILE_ID')
 
