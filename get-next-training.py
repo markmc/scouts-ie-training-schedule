@@ -1,10 +1,12 @@
+
+import sys
 import os
 from lxml import html
 
 URL_BASE = 'https://my.scouts.ie'
+PROFILE_ID = os.environ.get('SCOUTS_PROFILE_ID')
 USERNAME = os.environ.get('SCOUTS_USERNAME')
 PASSWORD = os.environ.get('SCOUTS_PASSWORD')
-PROFILE_ID = os.environ.get('SCOUTS_PROFILE_ID')
 
 def login(session):
     payload = {
@@ -22,6 +24,10 @@ if result.status_code != 200:
     sys.exit(1)
 
 result = session.get(URL_BASE + "/api/Training/GetProfileNextTraining?profileId={}".format(PROFILE_ID))
+
+if result.status_code == 200:
+    print('Success! Response length is {}'.format(len(result.text)), file=sys.stderr)
+else:
+    print('Failed! Response code is {}'.format(result.status_code), file=sys.stderr)
+
 print(result.text)
-
-
