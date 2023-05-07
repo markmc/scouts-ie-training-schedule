@@ -3,7 +3,7 @@ run-name: Get Next Scouts training
 on:
   workflow_dispatch:
   schedule:
-      - cron: 03 10 * * *
+      - cron: 03 10,18 * * *
 jobs:
   create-next-training-pr:
     runs-on: ubuntu-latest
