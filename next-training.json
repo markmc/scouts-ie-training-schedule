@@ -23763,7 +23763,7 @@
     "CanCancelBooking": false,
     "MaxYouth": 0,
     "MaxAdult": 0,
-    "MaxCapacity": 30,
+    "MaxCapacity": 33,
     "TeamYouthMin": null,
     "TeamYouthMax": null,
     "TeamAdultMin": null,
