@@ -21,7 +21,7 @@ jobs:
           SCOUTS_PROFILE_ID: ${{ secrets.SCOUTS_PROFILE_ID }}
         run: |
           pip install -r requirements.txt
-          python get-next-training.py > next-training.json
+          make clean all
       - uses: peter-evans/create-pull-request@v4
         with:
           commit-message: Next training
