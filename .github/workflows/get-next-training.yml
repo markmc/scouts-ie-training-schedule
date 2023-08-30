@@ -26,5 +26,5 @@ jobs:
         with:
           commit-message: Next training
           title: Next training
-          add-paths: next-training.*
+          add-paths: next-training.*,next-activity.*
           branch: create-pull-request/next-training
