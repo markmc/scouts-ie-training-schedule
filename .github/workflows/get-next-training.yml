@@ -22,9 +22,15 @@ jobs:
         run: |
           pip install -r requirements.txt
           make clean all
-      - uses: peter-evans/create-pull-request@v4
+      - name: Create pull request
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
         with:
           commit-message: Next training
           title: Next training
           add-paths: next-training.*,next-activity.*
           branch: create-pull-request/next-training
+      - name: Enable Pull Request Automerge
+        run: gh pr merge --rebase "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
