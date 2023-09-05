@@ -31,10 +31,12 @@ jobs:
           add-paths: next-training.*,next-activity.*
           branch: create-pull-request/next-training
       - name: Merge pull request
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         run: gh pr merge --rebase "${{ steps.cpr.outputs.pull-request-number }}"
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Delete pull request branch
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         run: git push origin :create-pull-request/next-training
         env:
           GH_TOKEN: ${{ github.token }}
