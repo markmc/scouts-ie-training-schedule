@@ -3502,7 +3502,7 @@
     "Description": "The National Venture Scout Sword is a campcraft competition for the 15-17 year old age group. \n\nIt is an opportunity for the Venture Scouts to show off their expert scouting skills, while also upskilling in the adventure skills such as pioneering, camping, backwoods and emergencies. \n\nThere will be an emphasis on socialising and teamwork, with some ongoing social challenges throughout the weekend. For further information see Venture Scouts Facebook Page and Instagram \n\nThe one accompanying adult scouter fee is included in the individual venture fee - any additional Rover or Scouter Staff pay on separate booking in myscouts.ie",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
