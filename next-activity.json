@@ -3566,7 +3566,7 @@
     "Description": "Your Alpine career begins here. Literally!\nThis weekend long event is run twice a year in the Irish mountain ranges. All this building towards taking the Havoc to Britain. Next stop Europe! But never fear you don’t have to be an experienced Mountain Havocker to take part on these events.\n\n• 3 Mountain Havoc events annually\n• 2 based in Ireland alternating around the country & 1 based in Great Britain - You must complete at least one Irish Mountain Havoc Event in the previous 12 months to be applicable.\n\n• Teams consisting of between 3 and 5 ventures – individual applicants welcome.\n\n**Online Payments: These must be made at time of booking, or your booking is not valid. If you select ‘Manual Payment’, this must be received by National Office within 3 days of booking, or your booking will be cancelled.\n\nAny issues with booking this event email events@scouts.ie\n\nAny information needed on Havoc email mountainhavoc@scouts.ie",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
