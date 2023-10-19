@@ -1,6 +1,5 @@
 StartDate,CanBook,Location,Title
 "3023-12-02T09:00:21",true,"Dunboyne Scout Den","Being A Scouter"
-"3023-10-07T09:00:35",false,"Shannonbanks Scout Hall ","Being A Scouter"
 "2024-04-13T09:00:46",true,"Larch Hill National Campsite","Youth Led Programme"
 "2024-02-17T09:00:17",true,"146 Dub Firhouse Scout Den","Scouting Together"
 "2024-01-27T09:00:07",true,"Coolevin Scout Den","Being A Scouter"
@@ -16,6 +15,7 @@ StartDate,CanBook,Location,Title
 "2023-11-11T09:00:07",true,"St Olivers Hall","Being A Scouter"
 "2023-10-30T19:30:22",false,"ONLINE VIA ZOOM","Safeguarding Training"
 "2023-10-26T19:00:35",false,"ONLINE VIA ZOOM","Safeguarding Training"
+"2023-10-24T19:00:44",false,"ONLINE VIA ZOOM","Safeguarding Refresher Training"
 "2023-10-21T09:00:48",false,"Dunboyne Scout Den","Youth Led Programme"
 "2023-10-21T09:00:41",false,"St Flannans College Ennis","Scouting Together"
 "2023-10-21T09:00:26",false,"Midlands Park Hotel","Group Leader/County Commissioner - Modules 2 & 3"
@@ -26,6 +26,7 @@ StartDate,CanBook,Location,Title
 "2023-10-08T09:30:32",false,"St Patricks Girls School","Being A Scouter"
 "2023-10-07T09:00:45",false,"Coolevan Scout Den","Being A Scouter"
 "2023-10-07T09:00:41",false,"Petersburg Outdoor Education Centre","Youth Led Programme"
+"2023-10-07T09:00:35",false,"Shannonbanks Scout Hall ","Being A Scouter"
 "2023-10-07T09:00:32",false,"Milltownpass Community Centre","Being A Scouter"
 "2023-10-07T09:00:15",false,"Petersburg Outdoor Education Centre","Being A Scouter"
 "2023-10-04T19:00:16",false,"ONLINE VIA ZOOM","Safeguarding Training"
