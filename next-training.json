@@ -46286,7 +46286,7 @@
     "Description": "DP-YLP-63-1123- Youth Lead Programme\nDUBLIN SCOUT PROVINCE This is a non-residential course over two days. This course requires attendance in person, there is no online element to this course. Please note there is no overnight accommodation available at the venue. You will need to be in attendance on both Saturday and Sunday 9:00 am to 6:00 pm.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
