@@ -1,7 +1,7 @@
 StartDate,CanBook,Location,Title
 "3023-12-02T09:00:50",true,"5th Meath Kells Scout Den","Youth Led Programme"
 "2024-04-13T09:00:46",true,"Larch Hill National Campsite","Youth Led Programme"
-"2024-02-17T09:00:17",true,"146 Dub Firhouse Scout Den","Scouting Together"
+"2024-02-17T09:00:17",false,"146 Dub Firhouse Scout Den","Scouting Together"
 "2024-02-03T09:00:41",true,"St Flannans College Ennis","Scouting Together"
 "2024-02-03T09:00:24",true,"St Flannans College Ennis","Youth Led Programme"
 "2024-01-27T09:00:52",true,"Midlands Park Hotel","Group Leader/County Commissioner - Modules 2 & 3"
@@ -17,7 +17,7 @@ StartDate,CanBook,Location,Title
 "2023-11-23T19:30:29",false,"ONLINE VIA ZOOM","Overnights Adventures and International Camp"
 "2023-11-18T09:00:53",false,"St Paul's Scout Hall, Waterford","Being A Scouter"
 "2023-11-18T09:00:24",false,"94 Dub Walkinstown Scout Den","Youth Led Programme"
-"2023-11-16T19:00:49",true,"ONLINE VIA ZOOM","Safeguarding Refresher Training"
+"2023-11-16T19:00:49",false,"ONLINE VIA ZOOM","Safeguarding Refresher Training"
 "2023-11-16T19:00:30",true,"Dolphin's Barn Scout Den","Safeguarding Training"
 "2023-11-11T09:00:41",false,"Clarmorris Den","Being A Scouter"
 "2023-11-11T09:00:16",false,"Kilcully Scout Campsite","Being A Scouter"
