@@ -46539,7 +46539,7 @@
     "EndDate": "2023-11-28T21:30:02",
     "ClosingDate": "2023-11-20T00:00:00",
     "Status": 0,
-    "Description": "This is a HYBRID course - all three parts must be completed:\n\nPart 1:   ONLINE Wednesday 28th Nov 1930 to 2130\n\nPart 2:   3rd Dec IN PERSON 0900-1730\n\nVenue \nKilcronaghan Centre\n10 Rectory Rd, Tobermore, Magherafelt BT45 5QP\n\nPart 3:   Thursday 7th December ONLINE 1900-2200",
+    "Description": "This is a HYBRID course - all three parts must be completed:\n\nPart 1:   ONLINE Tuesday 28th Nov 1930 to 2130\n\nPart 2:   3rd Dec IN PERSON 0900-1730\n\nVenue \nKilcronaghan Centre\n10 Rectory Rd, Tobermore, Magherafelt BT45 5QP\n\nPart 3:   Thursday 7th December ONLINE 1900-2200",
     "StatusLabel": "Open",
     "IsBooked": false,
     "CanBook": true,
