@@ -5408,7 +5408,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
+    "Id": "d3153083-6900-49e4-844f-b662893249e1",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -5440,7 +5440,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "d3153083-6900-49e4-844f-b662893249e1",
+    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -46606,7 +46606,7 @@
     "Description": "NE-BAS-11-1223-Being a Scouter his is a non-residential course over two days. This course requires attendance in person. Please note there is no overnight accommodation available at the venue. You will need to be in attendance for the two days (Saturday and Sunday). Day 1 09:00 - 19:00 Day 2 09:00 - 18:00",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
