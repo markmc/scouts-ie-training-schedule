@@ -46611,7 +46611,7 @@
     "CanCancelBooking": false,
     "MaxYouth": 0,
     "MaxAdult": 0,
-    "MaxCapacity": 28,
+    "MaxCapacity": 27,
     "TeamYouthMin": null,
     "TeamYouthMax": null,
     "TeamAdultMin": null,
