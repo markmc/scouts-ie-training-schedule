@@ -46574,7 +46574,7 @@
     "Description": "SP-SGR-16-1123-Safeguarding Refresher ONLINE",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
