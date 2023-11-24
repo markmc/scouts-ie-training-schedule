@@ -5408,7 +5408,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
+    "Id": "d3153083-6900-49e4-844f-b662893249e1",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -5440,7 +5440,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "d3153083-6900-49e4-844f-b662893249e1",
+    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -46862,7 +46862,7 @@
     "Description": "WP-YLP-5-1023-Youth Led Programme - This course requires attendance in person. This training is a residential overnight training course and there is no online attendance option for this training. You will need to be in attendance for the two days (Saturday and Sunday). The course start time is 9 am on both days. The course will finish at 18.00 on Sunday. Please bring a sleeping bag.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
