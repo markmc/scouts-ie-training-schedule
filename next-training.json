@@ -4512,10 +4512,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "6595e2e2-5deb-43e4-9295-92fd75779b28",
+    "Id": "e37c634d-8280-4321-885b-d63c9791bd04",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Youth Led Programme",
-    "LocationTitle": "Larch Hill National Campsite",
+    "LocationTitle": "Southern Province",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -4544,10 +4544,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "e37c634d-8280-4321-885b-d63c9791bd04",
+    "Id": "6595e2e2-5deb-43e4-9295-92fd75779b28",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Youth Led Programme",
-    "LocationTitle": "Southern Province",
+    "LocationTitle": "Larch Hill National Campsite",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
