@@ -47310,7 +47310,7 @@
     "Description": "DP-BAS-68-224-Being A Scouter DUBLIN SCOUT PROVINCE DP-BAS-68-224-Being A Scouter\nThis is a non-residential course over two days. This course requires attendance in person, there is no online element to this course. Please note there is no overnight accommodation available at the venue. You will need to be in attendance on both  Saturday and Sunday 09:00 to 18:00.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
