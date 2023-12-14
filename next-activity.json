@@ -3726,7 +3726,7 @@
     "Description": "The Crean Challenge Expedition is an annual event based on the experiences of Irish explorer Tom\nCrean. \n\nIt is for scouts aged from 13-15 years and takes place over an eight-month period, culminating\nin a week-long expedition to Iceland. \n\nIt aims to promote teamwork in patrols, to achieve a common\ngoal, and to personally challenge everyone to identify and achieve personal goals.\nParticipants will develop practical skills which are tested throughout the duration of the challenge,\nsuch as Route Planning, Navigation, Hill Walking, Icelandic Weather Systems and First Aid.\nThe six months of the Expedition process are difficult, both mentally and physically, but participants\nwill be trained to the highest standards to ensure that they can achieve the expedition requirements.\n\nThis expedition will introduce participants to new cultures and experiences,",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
