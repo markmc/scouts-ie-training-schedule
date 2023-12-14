@@ -47246,7 +47246,7 @@
     "Description": "WP-ST-19-1023 This course requires attendance in person. This training is a residential overnight training course and there is no online attendance option for this training. You will need to be in attendance for the two days (Saturday and Sunday) 9am start. The course will finish at 17.00 on Sunday.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
