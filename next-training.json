@@ -47278,7 +47278,7 @@
     "Description": "WP-YLP-5-1023-Youth Led Programme - This course requires attendance in person. This training is a residential overnight training course and there is no online attendance option for this training. You will need to be in attendance for the two days (Saturday and Sunday). The course start time is 9 am on both days. The course will finish at 18.00 on Sunday. Please bring a sleeping bag.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
