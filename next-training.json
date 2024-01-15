@@ -47246,7 +47246,7 @@
     "Description": "This is a Hybrid course - details below.  All parts of the course must be completed\nPart 1 online 1st Feb 7.30pm-9.30pm\nPart 2 4th Feb Cookstown  0900-1730 lunch included.\nPart 3 6th Feb online 7pm-10pm",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
