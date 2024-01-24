@@ -1,4 +1,5 @@
 StartDate,CanBook,Location,Title
+"3024-02-17T09:00:21",false,"3rd Kilkenny Thomastown","Being A Scouter"
 "2024-10-12T08:00:59",false,"Burncourt Scout Campsite","Adventure Skills Facilitator"
 "2024-04-13T09:00:46",false,"Larch Hill National Campsite","Youth Led Programme"
 "2024-03-23T09:00:49",true,"Ballyhornan Scout Centre","Scouting Together"
@@ -11,7 +12,6 @@ StartDate,CanBook,Location,Title
 "2024-02-24T19:30:38",true,"Kilcully Scout Campsite","Overnights Adventures and International Camp"
 "2024-02-22T19:00:34",false,"ONLINE VIA ZOOM","Safeguarding Refresher Training"
 "2024-02-17T09:00:37",true,"Tullyarvin Mill","Youth Led Programme"
-"2024-02-17T09:00:21",true,"3rd Kilkenny Thomastown","Being A Scouter"
 "2024-02-17T09:00:17",false,"146 Dub Firhouse Scout Den","Scouting Together"
 "2024-02-17T09:00:06",false,"Dunboyne Scout Den","Being A Scouter"
 "2024-02-10T09:00:37",false,"Dolphin's Barn Scout Den","Being A Scouter"
@@ -1483,6 +1483,7 @@ StartDate,CanBook,Location,Title
 "2012-01-01T09:00:15",false,"Larch Hill National Campsite","Being A Scouter"
 "2012-01-01T09:00:04",false,"No Venue","Stage 2 - Child Protection Awareness Training"
 "2011-04-11T00:00:00",false,"Limerick","Being A Scouter"
+"2011-01-01T09:00:59",false,"Larch Hill National Campsite","Stage 5 - Event Planning"
 "2007-09-24T09:00:26",false,"St Paul's Scout Hall, Waterford","Stage 2 - Child Protection Awareness Training"
 "2007-09-17T09:00:06",false,"St Paul's Scout Hall, Waterford","Stage 2 - Child Protection Awareness Training"
 "2007-09-10T09:00:40",false,"St Paul's Scout Hall, Waterford","Stage 2 - Child Protection Awareness Training"
