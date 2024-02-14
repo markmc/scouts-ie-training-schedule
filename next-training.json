@@ -47918,7 +47918,7 @@
     "Description": "SP-OVNI-2-224.Overnight Adventures & International Camps .Training Requirements Being A Scouter Pathway to your Scouting Courses are free Both courses are face-to-face",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
