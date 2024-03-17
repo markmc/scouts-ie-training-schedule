@@ -49006,7 +49006,7 @@
     "Description": "SP-SGOL-4-424-Safeguarding Course (refresher) Online-Safeguarding Refresher Training Online. Previously Required Stages:\nChild Protection Awareness\nStage 2 - Child Protection Awareness\nStage 2 - Child Protection Awareness Training\nBeing A Scouter\nPathway to your Scouter. No youth Members. Camera must be turned on for the duration of the course.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
