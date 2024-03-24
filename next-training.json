@@ -4608,10 +4608,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "4fcba34a-3f65-4dca-a972-705b5ba6fa1f",
+    "Id": "65879158-3b9e-4515-bd2d-81436a56af0e",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Carne Training Centre",
+    "LocationTitle": "Ballyhornan Scout Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -4640,10 +4640,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "65879158-3b9e-4515-bd2d-81436a56af0e",
+    "Id": "4fcba34a-3f65-4dca-a972-705b5ba6fa1f",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Ballyhornan Scout Centre",
+    "LocationTitle": "Carne Training Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
