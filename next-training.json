@@ -49870,7 +49870,7 @@
     "Description": "Overnights Adventures and International Camp online via Zoom",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
