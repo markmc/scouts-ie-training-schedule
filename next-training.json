@@ -50163,7 +50163,7 @@
     "CanCancelBooking": false,
     "MaxYouth": 0,
     "MaxAdult": 0,
-    "MaxCapacity": 23,
+    "MaxCapacity": 25,
     "TeamYouthMin": null,
     "TeamYouthMax": null,
     "TeamAdultMin": null,
