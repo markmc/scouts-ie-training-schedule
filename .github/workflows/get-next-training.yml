@@ -24,7 +24,7 @@ jobs:
           make clean all
       - name: Create pull request
         id: cpr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           commit-message: Next training
           title: Next training
