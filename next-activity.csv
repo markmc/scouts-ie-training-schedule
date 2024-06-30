@@ -1,8 +1,8 @@
 StartDate,CanBook,Location,Title
 "2024-11-15T00:00:00",false,"Achill Island","National Mountain Moot 2024"
 "2024-08-15T00:00:00",true,"Munster Agricultural Showgrounds, Curraheen, Cork.","The Phoenix Challenge 2024 (Adult Staff Registration)"
-"2024-07-22T00:00:00",true,"Norway","Roverway 2024 -bookings for Ventures & Rovers only"
-"2024-07-22T00:00:00",true,"Norway","Roverway 2024 BOOKINGS FOR IST ONLY"
+"2024-07-22T00:00:00",false,"Norway","Roverway 2024 -bookings for Ventures & Rovers only"
+"2024-07-22T00:00:00",false,"Norway","Roverway 2024 BOOKINGS FOR IST ONLY"
 "2024-07-18T00:00:00",false,"Somewhere in Ireland ?","Venture Challenge 2024"
 "2024-06-21T00:00:00",false,"Larch Hill International Scout Centre","Additional Scouter for National Cub Challenge 2024"
 "2024-06-21T00:00:00",false,"Larch Hill International Scout Centre","STAFF -National Cub Challenge 2024"
