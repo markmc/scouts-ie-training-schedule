@@ -1664,10 +1664,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f4031dc3-d345-4be5-9df4-82ec8a885c5f",
+    "Id": "9f12b956-cb09-4350-afec-a2f27f999546",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Ballyhornan Scout Centre",
+    "LocationTitle": "Larch Hill National Campsite",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -1696,10 +1696,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "9f12b956-cb09-4350-afec-a2f27f999546",
+    "Id": "f4031dc3-d345-4be5-9df4-82ec8a885c5f",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Larch Hill National Campsite",
+    "LocationTitle": "Ballyhornan Scout Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -51146,9 +51146,9 @@
     "StartDate": "2024-06-22T09:00:04",
     "EndDate": "2024-06-23T18:00:04",
     "ClosingDate": "2024-06-14T00:00:00",
-    "Status": 0,
+    "Status": 1,
     "Description": "SE-BAS-9-624-Being A Scouter This is a non-residential course over two days. This course requires attendance in person. Please note there is no overnight accommodation available at the venue. You will need to be in attendance for the two days (Saturday and Sunday). Day 1 09:00 - 18:00 Day 2 09:00 - 18:00",
-    "StatusLabel": "Open",
+    "StatusLabel": "Complete",
     "IsBooked": false,
     "CanBook": false,
     "CanEditBooking": false,
