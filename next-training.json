@@ -51790,7 +51790,7 @@
     "Description": "SP-BAS-18-1024-Being A Scouter HYBRID COURSE PLEASE READ BEFORE BOOKING. This is a Hybrid Course with three modules. Module 1 will take place on Tuesday 8th October 2024 19:00 – 22:00 ONLINE VIA ZOOM. Module 2 will take place on Thursday 10th October 2024 19:00 – 22:00 ONLINE VIA ZOOM. Module 3 will be a full-day in person training day which will take place in Kilcully Campsite Cork on Saturday 12th October 2024 09.00 - 18.30. Participants must ensure they are ABLE TO ATTEND ALL MODULES before booking a place on the course. Zoom links for Modules 1 and 2 will be sent 48 hours before each session with relevant course materials.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
