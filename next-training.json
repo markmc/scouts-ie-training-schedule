@@ -1664,10 +1664,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "9f12b956-cb09-4350-afec-a2f27f999546",
+    "Id": "f4031dc3-d345-4be5-9df4-82ec8a885c5f",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Larch Hill National Campsite",
+    "LocationTitle": "Ballyhornan Scout Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -1696,10 +1696,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f4031dc3-d345-4be5-9df4-82ec8a885c5f",
+    "Id": "9f12b956-cb09-4350-afec-a2f27f999546",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Ballyhornan Scout Centre",
+    "LocationTitle": "Larch Hill National Campsite",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -5696,7 +5696,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "d3153083-6900-49e4-844f-b662893249e1",
+    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -5728,7 +5728,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
+    "Id": "d3153083-6900-49e4-844f-b662893249e1",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
