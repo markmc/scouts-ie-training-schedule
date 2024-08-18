@@ -16,7 +16,7 @@ StartDate,CanBook,Location,Title
 "2024-10-26T09:00:49",true,"Renmore Scout Den","Being A Scouter"
 "2024-10-19T09:00:45",true,"Larch Hill National Campsite","Scouting Together"
 "2024-10-12T09:00:59",true,"St Flannans College Ennis","Youth Led Programme"
-"2024-10-12T09:00:50",true,"Kilcully Scout Campsite","Being A Scouter"
+"2024-10-12T09:00:50",false,"Kilcully Scout Campsite","Being A Scouter"
 "2024-10-12T09:00:30",true,"Dolphin's Barn Scout Den","Being A Scouter"
 "2024-10-12T08:00:59",false,"Burncourt Scout Campsite","Adventure Skills Facilitator"
 "2024-10-05T09:00:08",false,"City North Hotel","Group Leader/County Commissioner - Modules 2 & 3"
