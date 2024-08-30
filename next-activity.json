@@ -4046,7 +4046,7 @@
     "Description": "THIS IS AN ONLINE BOOKING ONLY:\n\nThe National Venture Sword is a campcraft competition for the 15 to 17 year old age group. It is an opportunity for the Venture Scouts to show off their expert scouting skills, while also upskilling in the Adventure Skills such as pioneering, camping, backwoods and emergencies. There will be an emphasis on socialising and teamwork, with some ongoing social challenges throughout the weekend.\n\nTeams of between 6 and 8 Venture Scouts will compete. They will automatically be assigned to a team based on their group but if there are groups mixing then this will have to be communicated to the organisers at venturescouts@scouts.ie. Although the booking for this event is individual the teams must be premade. The organisers will not be making up teams from individuals for the event.\n\nOne accompanying scouter is included in the price for a team so only additional scouters or rovers wishing to staff the event will have to book on and pay. \nFor more information please check Activity Information, any queries about the event please contact venturescouts@scouts.ie\n\nAny booking inquiries contact events@scouts.ie",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
