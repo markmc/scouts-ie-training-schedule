@@ -12,7 +12,7 @@ StartDate,CanBook,Location,Title
 "2024-11-23T09:00:05",false,"Larch Hill National Campsite","Youth Led Programme"
 "2024-11-23T09:00:03",true,"Claremorris","Being A Scouter"
 "2024-11-09T09:30:25",true,"Ballyhornan Scout Centre","Youth Led Programme"
-"2024-11-09T09:00:36",true,"Kilcully Scout Campsite","Being A Scouter"
+"2024-11-09T09:00:36",false,"Kilcully Scout Campsite","Being A Scouter"
 "2024-11-09T09:00:09",true,"Coolevan Scout Den","Being A Scouter"
 "2024-11-09T09:00:00",true,"St Flannans College Ennis","Scouting Together"
 "2024-10-26T09:00:49",true,"Renmore Scout Den","Being A Scouter"
