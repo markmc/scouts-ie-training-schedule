@@ -7,7 +7,7 @@ StartDate,CanBook,Location,Title
 "2025-02-22T09:00:44",true,"Larch Hill National Campsite","Youth Led Programme"
 "2024-12-07T09:00:55",true,"Larch Hill National Campsite","Being A Scouter"
 "2024-12-05T19:30:10",true,"St Ronans Hall Lisnaskea","Being A Scouter"
-"2024-11-24T14:00:06",true,"Castleconnell Campsite, Castleconnell, Limerick","Overnights Adventures and International Camp"
+"2024-11-24T14:00:06",false,"Castleconnell Campsite, Castleconnell, Limerick","Overnights Adventures and International Camp"
 "2024-11-23T09:00:16",true,"Castleconnell Campsite, Castleconnell, Limerick","Youth Led Programme"
 "2024-11-23T09:00:05",false,"Larch Hill National Campsite","Youth Led Programme"
 "2024-11-23T09:00:03",true,"Claremorris","Being A Scouter"
