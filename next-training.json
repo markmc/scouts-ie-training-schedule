@@ -52078,7 +52078,7 @@
     "Description": "NP-BAS-1909-24    This is a hybrid course run over three separate sessions:\nSession 1 - Thursday 19th September 1930 - 2130 online via zoom\nSession 2 - Sunday 22nd September 0930 - 1730 in person full day - ST PATRICKS GIRLS NATIONAL SCHOOL, CONVENT ROAD, CARDONAGH.  Lunch will be provided.\nSession 3 - Wednesday 25th September 1900 - 2200 online via zoom\nAll three sessions must be completed",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
