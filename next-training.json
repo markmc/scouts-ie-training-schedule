@@ -52686,7 +52686,7 @@
     "Description": "DP-BAS-14-1124-Being A Scouter \nThis is a non-residential course over two non-consecutive Saturdays one week apart. This course requires attendance in person, there is no online element to this course or overnight accommodation available at the venue. You will need to be in attendance on both Saturdays 09:00 to 18:00.Participants will need to complete the Story of Scouting course before attending this course and will be asked to produce their completion certificate.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
