@@ -1,5 +1,6 @@
 StartDate,CanBook,Location,Title
 "3024-11-30T09:00:09",true,"13th Kildare Clane Scout Den","Being A Scouter"
+"3024-10-12T09:00:30",true,"Dolphin's Barn Scout Den","Being A Scouter"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
 "2025-03-22T09:00:51",true,"Larch Hill National Campsite","Scouting Together"
 "2025-02-22T09:00:44",true,"Larch Hill National Campsite","Youth Led Programme"
@@ -27,7 +28,6 @@ StartDate,CanBook,Location,Title
 "2024-10-17T19:30:14",true,"ONLINE VIA ZOOM","Being A Scouter"
 "2024-10-12T09:00:59",false,"St Flannans College Ennis","Youth Led Programme"
 "2024-10-12T09:00:50",false,"Kilcully Scout Campsite","Being A Scouter"
-"2024-10-12T09:00:30",true,"Dolphin's Barn Scout Den","Being A Scouter"
 "2024-10-12T08:00:59",true,"Burncourt Scout Campsite","Adventure Skills Facilitator"
 "2024-10-05T09:00:16",false,"Drogheda Scout Den, Louth","Youth Led Programme"
 "2024-10-05T09:00:08",false,"City North Hotel","Group Leader/County Commissioner - Modules 2 & 3"
