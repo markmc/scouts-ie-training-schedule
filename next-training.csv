@@ -1,6 +1,5 @@
 StartDate,CanBook,Location,Title
 "3024-11-30T09:00:09",true,"13th Kildare Clane Scout Den","Being A Scouter"
-"3024-11-23T09:00:05",true,"Larch Hill National Campsite","Youth Led Programme"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
 "2025-03-22T09:00:51",true,"Larch Hill National Campsite","Scouting Together"
 "2025-02-22T09:00:44",true,"Larch Hill National Campsite","Youth Led Programme"
@@ -11,6 +10,7 @@ StartDate,CanBook,Location,Title
 "2024-12-05T19:30:10",true,"St Ronans Hall Lisnaskea","Being A Scouter"
 "2024-11-24T14:00:06",false,"Castleconnell Scout Den","Overnights Adventures and International Camp"
 "2024-11-23T09:00:16",false,"Castleconnell Campsite, Castleconnell, Limerick","Youth Led Programme"
+"2024-11-23T09:00:05",true,"Larch Hill National Campsite","Youth Led Programme"
 "2024-11-23T09:00:03",true,"Claremorris","Being A Scouter"
 "2024-11-21T19:30:40",true,"ONLINE VIA ZOOM","Being A Scouter"
 "2024-11-09T09:00:55",false,"St Paul's Scout Hall, Waterford","Being A Scouter"
@@ -19,7 +19,7 @@ StartDate,CanBook,Location,Title
 "2024-11-09T09:00:00",true,"St Flannans College Ennis","Scouting Together"
 "2024-11-02T09:30:25",true,"Ballyhornan Scout Centre","Youth Led Programme"
 "2024-11-02T09:00:18",false,"Malahide Scout Den","Being A Scouter"
-"2024-10-26T09:00:49",true,"Renmore Scout Den","Being A Scouter"
+"2024-10-26T09:00:49",false,"Renmore Scout Den","Being A Scouter"
 "2024-10-19T09:00:51",false,"5th Kildare Athy Scout Den","Youth Led Programme"
 "2024-10-19T09:00:45",false,"Larch Hill National Campsite","Scouting Together"
 "2024-10-19T09:00:45",false,"Kilcully Scout Campsite","Being A Scouter"
