@@ -52718,7 +52718,7 @@
     "Description": "NP-YLP-0211-24    Youth Led Programme.  Full weekend Saturday 2nd November 0930 to Sunday 3rd November 1700.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
