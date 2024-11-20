@@ -16,7 +16,7 @@ StartDate,CanBook,Location,Title
 "2025-01-01T09:00:23",true,"Larch Hill National Campsite","Skills Course"
 "2024-12-07T09:00:55",false,"Larch Hill National Campsite","Being A Scouter"
 "2024-12-05T19:30:10",true,"St Ronans Hall Lisnaskea","Being A Scouter"
-"2024-11-30T09:00:47",true,"Nagle Rice Primary School","Being A Scouter"
+"2024-11-30T09:00:47",false,"Nagle Rice Primary School","Being A Scouter"
 "2024-11-30T09:00:09",false,"13th Kildare Clane Scout Den","Being A Scouter"
 "2024-11-24T14:00:06",false,"Castleconnell Scout Den","Overnights Adventures and International Camp"
 "2024-11-23T09:00:55",false,"Cabragh Wetland Thurles","Being A Scouter"
