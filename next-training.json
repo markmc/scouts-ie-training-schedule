@@ -53518,7 +53518,7 @@
     "Description": "NO-GLCC-MOD2+3-7-125-Group Leader County Commissioner Training Modules 2 and 3.PLEASE READ BEFORE BOOKING. Module 2 will take place in Larch Hill on Saturday 25thJanuary 2025 and Sunday 26th January  2025 Module 3 will take place in Larch Hill on Saturday 12th April  and Sunday the 13th April 2025. The booking fee for this course includes both modules 2 & 3. Participants must ensure they are able to attend the dates specified above for the Modules before booking this course. It is not possible to split a booking across different courses/modules. Please click the blue “Find Out More” button for further information. Please note that there will be an online evening training session prior to the Module 2.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
