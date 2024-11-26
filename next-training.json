@@ -4736,10 +4736,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "4fcba34a-3f65-4dca-a972-705b5ba6fa1f",
+    "Id": "65879158-3b9e-4515-bd2d-81436a56af0e",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Carne Training Centre",
+    "LocationTitle": "Ballyhornan Scout Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -4768,10 +4768,10 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "65879158-3b9e-4515-bd2d-81436a56af0e",
+    "Id": "4fcba34a-3f65-4dca-a972-705b5ba6fa1f",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Being A Scouter",
-    "LocationTitle": "Ballyhornan Scout Centre",
+    "LocationTitle": "Carne Training Centre",
     "LocationAddress": null,
     "LocationLongitude": null,
     "LocationLatitude": null,
@@ -5696,7 +5696,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
+    "Id": "d3153083-6900-49e4-844f-b662893249e1",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -5728,7 +5728,7 @@
     "CanEditGroupBooking": false
   },
   {
-    "Id": "d3153083-6900-49e4-844f-b662893249e1",
+    "Id": "f3a5d21e-3710-4c33-bf28-8fd37c9dd743",
     "CourseId": "00000000-0000-0000-0000-000000000000",
     "Title": "Various",
     "LocationTitle": "Null",
@@ -53614,7 +53614,7 @@
     "Description": "DP-YLP-28-225-Youth Led Programme.\nDUBLIN SCOUT PROVINCE This is a residential course over two days which includes an overnight stay with sessions on the Saturday evening. This course requires attendance in person, there is no online element to this course. Please note Scouters will be required to stay on the Saturday night, hostel style accommodation is provided at the venue. The course starts on Saturday at 9:00am sharp on the Saturday, if participants are traveling and would find it difficult to arrive at that time accommodation to stay the Friday night before can be facilitated. Please email above after you make the booking if you will require Friday night accommodation.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
