@@ -4238,7 +4238,7 @@
     "Description": "The location that we have chosen is the Saas Valley in Switzerland which has an infrastructure of cable cars allowing for quick and easy access to both sides of the valley containing an array of 4000m summits, mountain trails and via ferrata, as well as off peak activities such as mountain scooters, high ropes, and alpine luge.\n\nThe event will be accomdated in appartments and have 2 days guide led (Glacier and Peaks) and 3 days self led\n\nThe event itself will run from Monday the 30th of June to Friday the 4th of July but we are aware that people will be around from Saturday to Saturday, all members of the traveling party mush have Austrian Alpine membership including Insurance or BMC Alpine insurance. All Scouting Ireland Rules will apply, and participants must have their vetting and safeguarding up to date.\n\nThe €580 cost is to secure accomdation and guides there will be a pay as you go element budget €1250, to include Flights, Ground Transportation, Cable Car Passes, huts , alpine insurance etc.\n\nFood and incidentals are not included in the budget",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
