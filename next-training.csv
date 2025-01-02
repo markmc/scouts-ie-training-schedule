@@ -33,7 +33,7 @@ StartDate,CanBook,Location,Title
 "2025-01-25T09:00:09",true,"Dolphin's Barn Scout Den","Being A Scouter"
 "2025-01-25T09:00:03",true,"Drogheda Scout Den, Louth","Being A Scouter"
 "2025-01-23T19:30:53",true,"ONLINE VIA ZOOM","Being A Scouter"
-"2025-01-11T09:00:36",true,"Longford Scout Den","Being A Scouter"
+"2025-01-11T09:00:36",false,"Longford Scout Den","Being A Scouter"
 "2025-01-11T09:00:22",true,"5th Meath Kells Scout Den","Being A Scouter"
 "2025-01-11T09:00:18",false,"Dolphin's Barn Scout Den","Being A Scouter"
 "2025-01-01T09:00:23",false,"Larch Hill National Campsite","Skills Course"
