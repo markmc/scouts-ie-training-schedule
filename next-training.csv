@@ -28,7 +28,7 @@ StartDate,CanBook,Location,Title
 "2025-02-01T09:00:45",true,"Arklow Scout Den","Being A Scouter"
 "2025-02-01T09:00:37",true,"Ennis Scout Den","Being A Scouter"
 "2025-02-01T09:00:18",true,"Arklow Scout Den","Scouting Together"
-"2025-01-25T09:00:34",true,"Kilcully Scout Campsite","Being A Scouter"
+"2025-01-25T09:00:34",false,"Kilcully Scout Campsite","Being A Scouter"
 "2025-01-25T09:00:28",false,"Larch Hill National Campsite","Group Leader/County Commissioner - Modules 2 & 3"
 "2025-01-25T09:00:09",false,"Dolphin's Barn Scout Den","Being A Scouter"
 "2025-01-25T09:00:03",true,"Drogheda Scout Den, Louth","Being A Scouter"
