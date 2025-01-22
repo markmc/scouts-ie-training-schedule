@@ -1,4 +1,6 @@
 StartDate,CanBook,Location,Title
+"3025-04-14T09:00:06",true,"Dolphin's Barn Scout Den","Being A Scouter"
+"3025-03-08T09:00:56",true,"Dolphin's Barn Scout Den","Being A Scouter"
 "3025-03-08T09:00:08",true,"St Pauls Scout Den","Being A Scouter"
 "3025-02-01T09:00:45",false,"Arklow Scout Den","Being A Scouter"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
@@ -139,7 +141,7 @@ StartDate,CanBook,Location,Title
 "2024-05-11T09:00:00",false,"Ballyhornan Scout Centre","Scouting Together"
 "2024-05-02T19:00:38",false,"ONLINE VIA ZOOM","Safeguarding Training"
 "2024-05-02T19:00:17",false,"ONLINE VIA ZOOM","Safeguarding Training"
-"2024-04-30T09:00:23",false,"5th Kildare Athy Scout Den","Skills Course"
+"2024-04-30T09:00:23",false,"5th Kildare Athy Scout Den","Overnights Adventures and International Camp"
 "2024-04-29T19:00:49",false,"Brackenstown Scout Den","Safeguarding Training"
 "2024-04-29T09:00:11",false,"ONLINE VIA ZOOM","CSA Mentor"
 "2024-04-27T09:00:33",false,"Arklow Scout Den","Being A Scouter"
