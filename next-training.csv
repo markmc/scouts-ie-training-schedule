@@ -30,7 +30,7 @@ StartDate,CanBook,Location,Title
 "2025-02-22T09:00:25",true,"Cabragh Wetland Thurles","Being A Scouter"
 "2025-02-15T09:00:33",true,"13th Kildare Clane Scout Den","Youth Led Programme"
 "2025-02-15T09:00:26",true,"Larch Hill International Scout Centre","Group Leader/County Commissioner - Modules 2 & 3"
-"2025-02-08T09:00:28",true,"Miltown Pass Community Hall","Being A Scouter"
+"2025-02-08T09:00:28",false,"Miltown Pass Community Hall","Being A Scouter"
 "2025-02-08T09:00:08",false,"Coolevin Scout Den","Being A Scouter"
 "2025-02-08T09:00:02",false,"Brook Park Dunmanway","Being A Scouter"
 "2025-02-01T09:00:37",false,"Ennis Scout Den","Being A Scouter"
