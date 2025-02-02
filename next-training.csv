@@ -22,7 +22,7 @@ StartDate,CanBook,Location,Title
 "2025-03-08T09:00:18",true,"Kilcronaghan Centre","Youth Led Programme"
 "2025-03-08T09:00:08",true,"St Pauls Scout Den","Being A Scouter"
 "2025-03-01T09:00:54",true,"Petersburg Outdoor Education Centre","Scouting Together"
-"2025-03-01T09:00:48",true,"Coolevin Scout Den","Being A Scouter"
+"2025-03-01T09:00:48",false,"Coolevin Scout Den","Being A Scouter"
 "2025-03-01T09:00:39",true,"Dunboyne Scout Den","Youth Led Programme"
 "2025-03-01T09:00:09",true,"Petersburg Outdoor Education Centre","Youth Led Programme"
 "2025-02-22T09:00:56",true,"Cabragh Wetland Thurles","Being A Scouter"
