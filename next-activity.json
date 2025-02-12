@@ -4302,7 +4302,7 @@
     "Description": "Your Alpine career begins here. Literally! This 4 full days and 4 nights event is run once a year in the British Mountain ranges. All this building towards taking the Havoc to Europe! Check out the attached preliminary Info pack for more details. DEPOSIT MUST BE PAID AT TIME OF BOOKING.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
