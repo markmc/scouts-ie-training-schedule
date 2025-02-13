@@ -54702,7 +54702,7 @@
     "Description": "DP-BAS-31-325 Being A Scouter 2x1 day consecutive\nDUBLIN SCOUT PROVINCE This is a non-residential course over two days. This course requires attendance in person, there is no online element to this course or overnight accommodation available at the venue. You will need to be in attendance on both Saturday and Sunday 09:00 to 18:00. Participants will need to complete the Story of Scouting course (both eLearning and Interactive Modules) before attending this course and will be asked to produce their completion certificate.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
