@@ -4238,7 +4238,7 @@
     "Description": "THIS EVENT IS NOW BOOKED OUT:\nFor waiting list please contact mountainhavoc@scouts.ie\nFor ANY CANCELATIONS please contact both mountainhavoc@scouts.ie and events@scouts.ie\n\nThe Munster Havoc 2025 brings us back to the highest peak in Ireland where the participants will have the choice of 3 different routes to the top of Ireland accompanied by leaders from all over the country. The campsite in Cronins Yard has toilet and showering facilities as well as cafe and shop.\nAny questions on Havoc email: mountainhavoc@scouts.ie",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
