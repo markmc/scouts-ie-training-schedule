@@ -55339,7 +55339,7 @@
     "EndDate": "2025-04-10T21:20:15",
     "ClosingDate": "2025-04-03T00:00:00",
     "Status": 0,
-    "Description": "NP-BAS-1004-25 This is a hybrid course and will be run over 3 sessions: Session 1 - Thursday 10th April online 1930- 2130. Session 2 - Sunday 13th April 0900-1730 in person (venue to be confirmed ). Lunch will be provided. Session 3 - Wednesday 16th April online 1900-2200. All three sessions must be completed.",
+    "Description": "NP-BAS-1004-25 This is a hybrid course and will be run over 3 sessions: Session 1 - Thursday 10th April online 1930- 2130. Session 2 - Sunday 13th April 0900-1730 in person. Lunch will be provided. Session 3 - Wednesday 16th April online 1900-2200. All three sessions must be completed.",
     "StatusLabel": "Open",
     "IsBooked": false,
     "CanBook": true,
