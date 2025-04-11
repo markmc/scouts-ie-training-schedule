@@ -4526,7 +4526,7 @@
     "Description": "The Venture Scout Challenge is the challenge of a lifetime that is available to Venture Scouts aged over 15 on the day of departure and under 18 on the 17th July of the year of departure. It is a chance to undertake an expedition over five to six days that brings a real understanding of\nIreland, our citizens and our way of life. This Challenge is undertaken in teams of two Ventures. If you do not have a partner already chosen, we will do our best to find a partner for you, however this is not guaranteed. Both members of the team must book on to the event through the myscouts portal.\n\nAny questions regarding the Venture Challenge Event please contact venturechallenge@scouts.ie\n\nAny issues with bookings please contact events@scouts.ie",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
