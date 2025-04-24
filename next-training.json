@@ -56590,7 +56590,7 @@
     "Description": "SP-OVNI-6-625 Learning for Your Team Overnights Adventures and International Camp on Sunday 11th May at 14.00-17.30 \nCourse Venue Kilcully Campsite",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
