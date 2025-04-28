@@ -13,7 +13,7 @@ StartDate,CanBook,Location,Title
 "2025-05-17T09:30:50",true,"Kilcronaghan Centre","Scouting Together"
 "2025-05-17T09:00:55",true,"Drogheda Scout Den, Louth","Scouting Together"
 "2025-05-17T09:00:08",true,"Cabragh Wetland Thurles","Being A Scouter"
-"2025-05-13T19:00:13",true,"ONLINE VIA ZOOM","CSA Mentor"
+"2025-05-13T19:00:13",false,"ONLINE VIA ZOOM","CSA Mentor"
 "2025-05-11T14:00:51",true,"Kilcully Scout Campsite","Overnights Adventures and International Camp"
 "2025-05-10T09:00:57",false,"Kells Scout Den,","Being A Scouter"
 "2025-05-10T09:00:51",false,"Arklow Scout Den","Youth Led Programme"
