@@ -12,7 +12,7 @@ StartDate,CanBook,Location,Title
 "2025-10-04T09:00:01",true,"Coolevin Scout Den","Being A Scouter"
 "2025-09-27T09:00:43",true,"Navan Scout Den","Youth Led Programme"
 "2025-09-27T09:00:00",true,"Larch Hill National Campsite","Group Leader/County Commissioner - Modules 2 & 3"
-"2025-09-20T08:00:09",true,"Dolphin's Barn Scout Den","Being A Scouter"
+"2025-09-20T08:00:09",false,"Dolphin's Barn Scout Den","Being A Scouter"
 "2025-08-30T09:00:14",true,"Arklow Scout Den","Being A Scouter"
 "2025-08-23T09:00:22",false,"Dolphin's Barn Scout Den","Being A Scouter"
 "2025-08-23T08:45:33",false,"Tulla Scout Den, Tulla","Being A Scouter"
