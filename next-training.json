@@ -57843,7 +57843,7 @@
     "CanCancelBooking": false,
     "MaxYouth": 0,
     "MaxAdult": 0,
-    "MaxCapacity": 24,
+    "MaxCapacity": 23,
     "TeamYouthMin": null,
     "TeamYouthMax": null,
     "TeamAdultMin": null,
