@@ -13,7 +13,7 @@ StartDate,CanBook,Location,Title
 "2025-11-22T09:00:43",true,"Larch Hill National Campsite","Youth Led Programme"
 "2025-11-15T09:00:12",true,"Clare County Scout Camp ","Being A Scouter"
 "2025-11-13T19:30:55",true,"Craigavon Scout Den","Being A Scouter"
-"2025-11-08T09:00:43",true,"Kilcully Scout Campsite","Being A Scouter"
+"2025-11-08T09:00:43",false,"Kilcully Scout Campsite","Being A Scouter"
 "2025-11-01T09:00:58",true,"St Flannans College Ennis","Scouting Together"
 "2025-11-01T09:00:42",false,"Larch Hill National Campsite","Scouting Together"
 "2025-11-01T09:00:41",true,"St Flannans College Ennis","Youth Led Programme"
