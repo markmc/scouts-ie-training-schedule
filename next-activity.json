@@ -4846,7 +4846,7 @@
     "Description": "THIS EVENT IS BOOKED OUT:\nANY QUESTIONS PLEASE EMAIL mootexpedition@scouts.ie\n\nThe aim is to gather hillwalking Scouters who are interested in learning how to journey to Eryri National Park and then run a Youth Centered Scout programme in the hills.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": true,
+    "CanBook": false,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
