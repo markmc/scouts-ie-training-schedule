@@ -31,7 +31,7 @@ StartDate,CanBook,Location,Title
 "2025-10-11T09:00:19",true,"Longford Scout Den","Being A Scouter"
 "2025-10-04T10:00:32",false,"91st Dublin Scout Den","Adventure Skills Facilitator"
 "2025-10-04T09:00:59",true,"Arklow Scout Den","Youth Led Programme"
-"2025-10-04T09:00:25",true,"Arklow Scout Den","Being A Scouter"
+"2025-10-04T09:00:25",false,"Arklow Scout Den","Being A Scouter"
 "2025-10-04T09:00:16",true,"Dunboyne Scout Den","Scouting Together"
 "2025-10-04T08:57:01",false,"Coolevin Scout Den","Being A Scouter"
 "2025-10-04T08:45:11",true,"Renmore Scout Den","Being A Scouter"
