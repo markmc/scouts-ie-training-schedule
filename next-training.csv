@@ -1,6 +1,5 @@
 StartDate,CanBook,Location,Title
 "3026-01-25T09:00:26",true,"Larch Hill National Campsite","Group Leader/County Commissioner - Modules 2 & 3"
-"3025-11-15T09:00:16",true,"Kingscourt, Co Cavan","Being A Scouter"
 "3025-06-28T09:00:08",true,"Renmore Scout Den","Being A Scouter"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
 "2026-05-14T19:30:58",true,"29th Belfast Carryduff Scout Den","Being A Scouter"
@@ -21,6 +20,7 @@ StartDate,CanBook,Location,Title
 "2025-11-22T09:00:19",true,"Askea Parish Community Centre,","Being A Scouter"
 "2025-11-15T09:00:55",true,"Larch Hill National Campsite","Group Leader/County Commissioner - Modules 2 & 3"
 "2025-11-15T09:00:34",true,"Drogheda Scout Den, Louth","Being A Scouter"
+"2025-11-15T09:00:16",true,"Kingscourt, Co Cavan","Being A Scouter"
 "2025-11-15T09:00:12",true,"Clare County Scout Camp ","Being A Scouter"
 "2025-11-13T19:30:55",false,"Craigavon Scout Den","Being A Scouter"
 "2025-11-08T09:00:43",false,"Kilcully Scout Campsite","Being A Scouter"
@@ -35,7 +35,6 @@ StartDate,CanBook,Location,Title
 "2025-10-11T09:00:58",false,"Burncourt Scout Campsite","Adventure Skills Facilitator"
 "2025-10-11T09:00:47",false,"Fermoy Scout Den, Co Cork","Being A Scouter"
 "2025-10-04T10:00:32",false,"91st Dublin Scout Den","Adventure Skills Facilitator"
-"2025-10-04T09:00:59",false,"Arklow Scout Den","Youth Led Programme"
 "2025-10-04T09:00:25",false,"Arklow Scout Den","Being A Scouter"
 "2025-10-04T09:00:16",false,"Dunboyne Scout Den","Scouting Together"
 "2025-10-04T09:00:01",false,"Coolevin Scout Den","Being A Scouter"
