@@ -58734,7 +58734,7 @@
     "Description": "SE-BAS-6-1125-Being A Scouter-This is a non-residential course over two days. This course requires attendance in person, there is no online element to this course or overnight accommodation available at the venue. You will need to be in attendance on both Saturday and Sunday 09:00 to 18:00.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
