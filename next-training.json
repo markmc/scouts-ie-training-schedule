@@ -59086,7 +59086,7 @@
     "Description": "DP-BAS-9-126 Being A Scouter 2x1 day non-consecutive. This is a non-residential course, it is being held over two Saturdays; first day is Saturday 10 January 2026; second day is Saturday 17 January 2026. This course requires attendance in person, there is no online element to this course and no overnight accommodation available at the venue. You will need to be in attendance on both Saturdays 09:00 to 18:00. Participants are advised to complete the Story of Scouting course before attending this course.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
