@@ -1,7 +1,7 @@
 StartDate,CanBook,Location,Title
 "3026-01-25T09:00:26",true,"Larch Hill National Campsite","Group Leader/County Commissioner - Modules 2 & 3"
 "3026-01-24T09:00:18",true,"23rd Kildare Sallins Scout Den","Being A Scouter"
-"3025-10-18T09:00:26",true,"Milltownpass Community Hall","Being A Scouter"
+"3025-10-18T09:00:26",false,"Milltownpass Community Hall","Being A Scouter"
 "3025-06-28T09:00:08",true,"Renmore Scout Den","Being A Scouter"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
 "2026-05-14T19:30:58",true,"29th Belfast Carryduff Scout Den","Being A Scouter"
