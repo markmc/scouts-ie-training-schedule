@@ -58926,7 +58926,7 @@
     "Description": "SP-OVNI- 9-1125- Overnights Adventures and International Camp on Sunday 30th Nov. at 14.00-1730. Course venue: Kilcully Campsite co. Cork Learning for Your team.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
