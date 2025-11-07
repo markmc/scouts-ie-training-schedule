@@ -58862,7 +58862,7 @@
     "Description": "DP-YLP-6-1125 - Youth Led Programme\nDUBLIN SCOUT PROVINCE This is a residential course over two days which includes an overnight stay with sessions on the Saturday evening. This course requires attendance in person, there is no online element to this course. Please note Scouters will be required to stay on the Saturday night, hostel style accommodation is provided at the venue as part of the course fee. The course starts on Saturday at 9:00am sharp on the Saturday, if participants are traveling accommodation is available on the Friday night before. Please email above after you make the booking if you will require Friday night accommodation.",
     "StatusLabel": "Open",
     "IsBooked": false,
-    "CanBook": false,
+    "CanBook": true,
     "CanEditBooking": false,
     "CanCancelBooking": false,
     "MaxYouth": 0,
