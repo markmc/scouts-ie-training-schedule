@@ -1,7 +1,6 @@
 StartDate,CanBook,Location,Title
 "3026-03-07T09:30:32",true,"Kilcronaghan Centre","Youth Led Programme"
 "3026-01-24T09:00:18",true,"23rd Kildare Sallins Scout Den","Being A Scouter"
-"3025-10-18T09:00:26",false,"Milltownpass Community Hall","Being A Scouter"
 "3025-06-28T09:00:08",true,"Renmore Scout Den","Being A Scouter"
 "3024-06-22T09:00:39",true,"TBA","Scouting Together"
 "2026-05-14T19:30:58",true,"29th Belfast Carryduff Scout Den","Being A Scouter"
@@ -32,6 +31,7 @@ StartDate,CanBook,Location,Title
 "2025-11-15T09:00:34",false,"Drogheda Scout Den, Louth","Being A Scouter"
 "2025-11-15T09:00:12",false,"Clare County Scout Camp ","Being A Scouter"
 "2025-11-13T19:30:55",false,"Craigavon Scout Den","Being A Scouter"
+"2025-11-12T19:00:04",false,"Coolevin Scout Den","The Story of Scouting Interactive"
 "2025-11-08T09:00:43",false,"Kilcully Scout Campsite","Being A Scouter"
 "2025-11-08T09:00:41",false,"Coolevin Scout Den","Being A Scouter"
 "2025-11-08T08:45:09",false,"Share Centre","Adventure Skills Facilitator"
@@ -41,6 +41,7 @@ StartDate,CanBook,Location,Title
 "2025-10-24T10:00:11",false,"TBC","Skills Course"
 "2025-10-23T09:00:08",false,"5th Carlow Scout Den","The Story of Scouting Interactive"
 "2025-10-18T09:00:42",false,"Kilcully Scout Campsite","Scouting Together"
+"2025-10-18T09:00:26",false,"Milltownpass Community Hall","Being A Scouter"
 "2025-10-18T09:00:18",false,"Renville Park, Oranmore, Galway","Skills Course"
 "2025-10-11T09:00:58",false,"Burncourt Scout Campsite","Adventure Skills Facilitator"
 "2025-10-11T09:00:47",false,"Fermoy Scout Den, Co Cork","Being A Scouter"
