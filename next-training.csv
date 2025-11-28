@@ -13,7 +13,7 @@ StartDate,CanBook,Location,Title
 "2026-03-07T09:00:47",true,"Coolevin Scout Den","Being A Scouter"
 "2026-03-07T09:00:34",true,"Renmore Scout Den","Being A Scouter"
 "2026-02-21T09:30:48",true,"Ballyhornan Scout Centre","Scouting Together"
-"2026-02-21T09:00:16",true,"Larch Hill National Campsite","Youth Led Programme"
+"2026-02-21T09:00:16",false,"Larch Hill National Campsite","Youth Led Programme"
 "2026-02-07T09:00:40",true,"Dolpins Barn Scout Den","Being A Scouter"
 "2026-02-07T09:00:33",true,"St Flannans College Ennis","Being A Scouter"
 "2026-02-07T09:00:26",true,"St Flannans College Ennis","Youth Led Programme"
